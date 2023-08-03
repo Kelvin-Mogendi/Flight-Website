@@ -92,6 +92,7 @@
         </form>
       </div>
     </div>
+    <Travelers />
     <FooterSection />
   </div>
 </template>
@@ -102,11 +103,13 @@ import "sweetalert2/dist/sweetalert2.min.css";
 import "../../public/vendor/tailwind.min.css";
 import NavBar from "../layouts/NavBar";
 import FooterSection from "../layouts/FooterSection";
+import Travelers from "../layouts/Travelers";
 export default {
   name: "landing-page",
   components: {
     NavBar,
     FooterSection,
+    Travelers,
   },
   data() {
     return {

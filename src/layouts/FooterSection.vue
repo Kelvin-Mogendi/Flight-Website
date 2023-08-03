@@ -98,7 +98,7 @@
         </router-link>
       </div>
       <div class="pb-1">
-        &copy;&nbsp;2020&nbsp;Kenya&nbsp;Airways.&nbsp;All&nbsp;Rights&nbsp;Reserved
+        &copy;&nbsp;2023&nbsp;Kenya&nbsp;Airways.&nbsp;All&nbsp;Rights&nbsp;Reserved
       </div>
     </div>
   </footer>
